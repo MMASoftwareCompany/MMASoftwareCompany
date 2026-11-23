@@ -1,4 +1,6 @@
 <center>
+  <img src="Images/MMA-Reports-Logo.png" width="180" alt="M.M.A. Reports Logo">
+  <br>
 # M.M.A. Software Company
 
 ### Independent Software Development & Solutions
