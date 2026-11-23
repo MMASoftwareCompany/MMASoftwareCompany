@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/logo.jpg" width="180" alt="M.M.A. Reports Logo">
+  <img src="Images/logo.jpg" width="300" alt="M.M.A. Reports Logo">
 </p>
 
 <h1 align="center">M.M.A. Software Company</h1>
