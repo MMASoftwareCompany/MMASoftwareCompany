@@ -1,10 +1,11 @@
-<center>
+<p align="center">
   <img src="Images/Logo.jpg" width="180" alt="M.M.A. Reports Logo">
-  <br>
-# M.M.A. Software Company
+</p>
 
-### Independent Software Development & Solutions
-</center>
+<h1 align="center">M.M.A. Software Company</h1>
+
+<h3 align="center">Independent Software Development & Solutions</h3>
+
 <br>
 ## About
 
