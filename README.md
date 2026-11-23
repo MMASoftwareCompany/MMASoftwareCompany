@@ -7,6 +7,7 @@
 <h3 align="center">Independent Software Development & Solutions</h3>
 
 <br>
+
 ## About
 
 M.M.A. Software Company is the personal software identity representing the development projects and programming work of Mostapha Mahmoud Abd El-Salam.
