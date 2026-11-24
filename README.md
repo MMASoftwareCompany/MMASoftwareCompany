@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="Images/logo.jpg" width="70%" alt="M.M.A. Reports Logo"><br>
-  <img src="Images/main.jpg" width="100%" alt="M.M.A. Reports Main Banner">
+  <img src="Images/logo.jpg" width="85%" alt="M.M.A. Reports Logo"><br>
 </p>
 
 <h1 align="center">M.M.A. Software Company</h1>
